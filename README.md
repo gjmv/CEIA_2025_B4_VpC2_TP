@@ -8,7 +8,7 @@ Bimestre 4
 
 ## TP
 
-## Docente:
+## Docentes:
 * Rafel Alfonso
 * Cornet Juan Ignacio
 * Seyed Pakdaman
